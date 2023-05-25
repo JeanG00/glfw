@@ -1,2 +1,7 @@
-﻿  main.cpp
+﻿  EBO.cpp
+  main.cpp
+  shader.cpp
+  VAO.cpp
+  VBO.cpp
+  Generating Code...
   maison.vcxproj -> D:\openGL\maison\x64\Debug\maison.exe
